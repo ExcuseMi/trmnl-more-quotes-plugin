@@ -23,7 +23,7 @@ def create_options_yml():
         'keyname': 'about',
         'name': 'About This Plugin',
         'field_type': 'author_bio',
-        'github_url': 'https://github.com/ExcuseMi/trmnl-quotes.plugin'
+        'github_url': 'https://github.com/ExcuseMi/trmnl-more-quotes.plugin'
     }
     custom_fields.append(about_field)
 

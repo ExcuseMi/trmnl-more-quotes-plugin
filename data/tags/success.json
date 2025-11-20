@@ -1,6 +1,6 @@
 {
   "tag": "success",
-  "count": 124,
+  "count": 125,
   "quotes": [
     {
       "text": "A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.",
@@ -621,6 +621,11 @@
       "text": "Success is liking yourself, liking what you do, and liking how you do it.",
       "author": "Maya Angelou",
       "source": "zenquotes.io"
+    },
+    {
+      "text": "Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.",
+      "author": "Margaret Mead",
+      "source": "quotable.io"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "tag": "harmony",
-  "count": 22,
+  "count": 23,
   "quotes": [
     {
       "text": "He who lives in harmony with himself lives in harmony with the world.",
@@ -110,6 +110,11 @@
     {
       "text": "If we have no peace, it is because we have forgotten that we belong to each other.",
       "author": "Mother Teresa",
+      "source": "zenquotes.io"
+    },
+    {
+      "text": "Peace if possible, truth at all costs.",
+      "author": "Martin Luther",
       "source": "zenquotes.io"
     }
   ]
