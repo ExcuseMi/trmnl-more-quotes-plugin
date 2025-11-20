@@ -1,6 +1,6 @@
 {
   "tag": "patience",
-  "count": 12,
+  "count": 13,
   "quotes": [
     {
       "text": "Patience is the companion of wisdom.",
@@ -61,6 +61,11 @@
       "text": "I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.",
       "author": "Elizabeth Montagu",
       "source": "quotable.io"
+    },
+    {
+      "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
+      "author": "A.A. Milne",
+      "source": "zenquotes.io"
     }
   ]
 }

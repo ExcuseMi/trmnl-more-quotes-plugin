@@ -1,6 +1,6 @@
 {
   "tag": "leadership",
-  "count": 8,
+  "count": 9,
   "quotes": [
     {
       "text": "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
@@ -40,6 +40,11 @@
     {
       "text": "Becoming a great leader doesn't mean being perfect. it means living with your imperfections.",
       "author": "Lolly Daskal",
+      "source": "zenquotes.io"
+    },
+    {
+      "text": "No man will make a great leader who wants to do it all himself or to get all the credit for doing it.",
+      "author": "Andrew Carnegie",
       "source": "zenquotes.io"
     }
   ]
