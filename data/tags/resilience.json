@@ -1,102 +1,116 @@
-[
-  {
-    "text": "One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.",
-    "author": "Albert Schweitzer",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Our passion is our strength.",
-    "author": "Billie Armstrong",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Wisdom is always an overmatch for strength.",
-    "author": "Phil Jackson",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Our strength grows out of our weaknesses.",
-    "author": "Ralph Waldo Emerson",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Silence is a source of great strength.",
-    "author": "Laozi",
-    "source": "quotable.io"
-  },
-  {
-    "text": "We gain the strength of the temptation we resist.",
-    "author": "Ralph Waldo Emerson",
-    "source": "quotable.io"
-  },
-  {
-    "text": "The awareness of our own strength makes us modest.",
-    "author": "Paul Cézanne",
-    "source": "quotable.io"
-  },
-  {
-    "text": "With the new day comes new strength and new thoughts.",
-    "author": "Eleanor Roosevelt",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Good actions give strength to ourselves and inspire good actions in others.",
-    "author": "Plato",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Continuous effort - not strength or intelligence - is the key to unlocking our potential.",
-    "author": "Winston Churchill",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Strength does not come from physical capacity. It comes from an indomitable will.",
-    "author": "Mahatma Gandhi",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Compassion and happiness are not a sign of weakness but a sign of strength.",
-    "author": "Dalai Lama",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Be faithful in small things because it is in them that your strength lies.",
-    "author": "Mother Teresa",
-    "source": "quotable.io"
-  },
-  {
-    "text": "More often than not, anger is actually an indication of weakness rather than of strength.",
-    "author": "Dalai Lama",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
-    "author": "Louis Pasteur",
-    "source": "quotable.io"
-  },
-  {
-    "text": "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.",
-    "author": "Dalai Lama",
-    "source": "quotable.io"
-  },
-  {
-    "text": "When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.",
-    "author": "Audre Lorde",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
-    "author": "Harriet Tubman",
-    "source": "quotable.io"
-  },
-  {
-    "text": "I look forward to a great future for America - a future in which our country will match its military strength with our moral restraint, its wealth with our wisdom, its power with our purpose.",
-    "author": "John F. Kennedy",
-    "source": "quotable.io"
-  },
-  {
-    "text": "I hope we shall crush in its birth the aristocracy of our monied corporations which dare already to challenge our government to a trial by strength, and bid defiance to the laws of our country.",
-    "author": "Thomas Jefferson",
-    "source": "quotable.io"
-  }
-]
+{
+  "tag": "resilience",
+  "count": 22,
+  "quotes": [
+    {
+      "text": "One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.",
+      "author": "Albert Schweitzer",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Our passion is our strength.",
+      "author": "Billie Armstrong",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Wisdom is always an overmatch for strength.",
+      "author": "Phil Jackson",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Our strength grows out of our weaknesses.",
+      "author": "Ralph Waldo Emerson",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Silence is a source of great strength.",
+      "author": "Laozi",
+      "source": "quotable.io"
+    },
+    {
+      "text": "We gain the strength of the temptation we resist.",
+      "author": "Ralph Waldo Emerson",
+      "source": "quotable.io"
+    },
+    {
+      "text": "The awareness of our own strength makes us modest.",
+      "author": "Paul Cézanne",
+      "source": "quotable.io"
+    },
+    {
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Good actions give strength to ourselves and inspire good actions in others.",
+      "author": "Plato",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Continuous effort - not strength or intelligence - is the key to unlocking our potential.",
+      "author": "Winston Churchill",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Strength does not come from physical capacity. It comes from an indomitable will.",
+      "author": "Mahatma Gandhi",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Compassion and happiness are not a sign of weakness but a sign of strength.",
+      "author": "Dalai Lama",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Be faithful in small things because it is in them that your strength lies.",
+      "author": "Mother Teresa",
+      "source": "quotable.io"
+    },
+    {
+      "text": "More often than not, anger is actually an indication of weakness rather than of strength.",
+      "author": "Dalai Lama",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
+      "author": "Louis Pasteur",
+      "source": "quotable.io"
+    },
+    {
+      "text": "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.",
+      "author": "Dalai Lama",
+      "source": "quotable.io"
+    },
+    {
+      "text": "When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.",
+      "author": "Audre Lorde",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+      "author": "Harriet Tubman",
+      "source": "quotable.io"
+    },
+    {
+      "text": "I look forward to a great future for America - a future in which our country will match its military strength with our moral restraint, its wealth with our wisdom, its power with our purpose.",
+      "author": "John F. Kennedy",
+      "source": "quotable.io"
+    },
+    {
+      "text": "I hope we shall crush in its birth the aristocracy of our monied corporations which dare already to challenge our government to a trial by strength, and bid defiance to the laws of our country.",
+      "author": "Thomas Jefferson",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Self-control is strength.",
+      "author": "James Allen",
+      "source": "zenquotes.io"
+    },
+    {
+      "text": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. ",
+      "author": "Lao Tzu",
+      "source": "zenquotes.io"
+    }
+  ]
+}

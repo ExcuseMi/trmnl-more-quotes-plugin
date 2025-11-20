@@ -1,32 +1,56 @@
-[
-  {
-    "text": "Learning without reflection is a waste, reflection without learning is dangerous.",
-    "author": "Confucius",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.",
-    "author": "Peter Drucker",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Irony is the gaiety of reflection and the joy of wisdom.",
-    "author": "Anatole France",
-    "source": "quotable.io"
-  },
-  {
-    "text": "I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.",
-    "author": "Susan Orlean",
-    "source": "quotable.io"
-  },
-  {
-    "text": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.",
-    "author": "Confucius",
-    "source": "quotable.io"
-  },
-  {
-    "text": "There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.",
-    "author": "Confucius",
-    "source": "quotable.io"
-  }
-]
+{
+  "tag": "self-reflection",
+  "count": 10,
+  "quotes": [
+    {
+      "text": "Learning without reflection is a waste, reflection without learning is dangerous.",
+      "author": "Confucius",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.",
+      "author": "Peter Drucker",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Irony is the gaiety of reflection and the joy of wisdom.",
+      "author": "Anatole France",
+      "source": "quotable.io"
+    },
+    {
+      "text": "I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.",
+      "author": "Susan Orlean",
+      "source": "quotable.io"
+    },
+    {
+      "text": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.",
+      "author": "Confucius",
+      "source": "quotable.io"
+    },
+    {
+      "text": "There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.",
+      "author": "Confucius",
+      "source": "quotable.io"
+    },
+    {
+      "text": "If you genuinely want something, don't wait for it - teach yourself.",
+      "author": "Gurbaksh Chahal",
+      "source": "zenquotes.io"
+    },
+    {
+      "text": "Formal education will make you a living, self-education will make you a fortune.",
+      "author": "Jim Rohn",
+      "source": "zenquotes.io"
+    },
+    {
+      "text": "You cannot push anyone up a ladder unless he is willing to climb a little himself.",
+      "author": "Andrew Carnegie",
+      "source": "zenquotes.io"
+    },
+    {
+      "text": "Whenever you find yourself on the side of the majority, it is time to reform.",
+      "author": "Mark Twain",
+      "source": "zenquotes.io"
+    }
+  ]
+}

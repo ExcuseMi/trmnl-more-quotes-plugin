@@ -304,8 +304,13 @@ def generate_quotes_database():
     print(f"\nSaving individual tag files to: {TAGS_DIR.absolute()}")
     for tag, quotes in quotes_db.items():
         tag_file = TAGS_DIR / f"{tag}.json"
+        tag_data = {
+            "tag": tag,
+            "count": len(quotes),
+            "quotes": quotes
+        }
         with open(tag_file, 'w', encoding='utf-8') as f:
-            json.dump(quotes, f, indent=2, ensure_ascii=False)
+            json.dump(tag_data, f, indent=2, ensure_ascii=False)
         print(f"  ✓ Saved {tag}.json ({len(quotes)} quotes)")
 
     print(f"\n✓ Successfully saved {len(quotes_db)} tag files")

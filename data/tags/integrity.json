@@ -1,27 +1,31 @@
-[
-  {
-    "text": "Nothing is at last sacred but the integrity of your own mind.",
-    "author": "Ralph Waldo Emerson",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.",
-    "author": "William C. Menninger",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Know what's important and what isn't. Have the wisdom to know the right thing to do, the integrity to do it, the character to stand up to those who don't, and the courage to stop those who won't.",
-    "author": "Mark Goulston",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Be Impeccable with Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.",
-    "author": "Don Miguel Ruiz",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Being entirely honest with oneself is a good exercise.",
-    "author": "Sigmund Freud",
-    "source": "quotable.io"
-  }
-]
+{
+  "tag": "integrity",
+  "count": 5,
+  "quotes": [
+    {
+      "text": "Nothing is at last sacred but the integrity of your own mind.",
+      "author": "Ralph Waldo Emerson",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.",
+      "author": "William C. Menninger",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Know what's important and what isn't. Have the wisdom to know the right thing to do, the integrity to do it, the character to stand up to those who don't, and the courage to stop those who won't.",
+      "author": "Mark Goulston",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Be Impeccable with Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.",
+      "author": "Don Miguel Ruiz",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Being entirely honest with oneself is a good exercise.",
+      "author": "Sigmund Freud",
+      "source": "quotable.io"
+    }
+  ]
+}

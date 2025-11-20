@@ -1,87 +1,91 @@
-[
-  {
-    "text": "The secret of success is constancy to purpose.",
-    "author": "Benjamin Disraeli",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Good luck is another name for tenacity of purpose.",
-    "author": "Ralph Waldo Emerson",
-    "source": "quotable.io"
-  },
-  {
-    "text": "To want to be what one can be is purpose in life.",
-    "author": "Cynthia Ozick",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Let there be no purpose in friendship save the deepening of the spirit.",
-    "author": "Kahlil Gibran",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.",
-    "author": "Woodrow Wilson",
-    "source": "quotable.io"
-  },
-  {
-    "text": "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
-    "author": "Mortimer J. Adler",
-    "source": "quotable.io"
-  },
-  {
-    "text": "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.",
-    "author": "Wayne Dyer",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.",
-    "author": "Napoleon Hill",
-    "source": "quotable.io"
-  },
-  {
-    "text": "I look forward to a great future for America - a future in which our country will match its military strength with our moral restraint, its wealth with our wisdom, its power with our purpose.",
-    "author": "John F. Kennedy",
-    "source": "quotable.io"
-  },
-  {
-    "text": "There is not one big cosmic meaning for all, there is only the meaning we each give to our life.",
-    "author": "Anaïs Nin",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Meaning is not what you start with but what you end up with.",
-    "author": "Peter Elbow",
-    "source": "quotable.io"
-  },
-  {
-    "text": "The meaning I picked, the one that changed my life: Overcome fear, behold wonder.",
-    "author": "Richard Bach",
-    "source": "quotable.io"
-  },
-  {
-    "text": "How is it possible to find meaning in a finite world, given my waist and shirt size?",
-    "author": "Woody Allen",
-    "source": "quotable.io"
-  },
-  {
-    "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
-    "author": "Carl Jung",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.",
-    "author": "Muhammad Ali",
-    "source": "quotable.io"
-  },
-  {
-    "text": "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.",
-    "author": "Albert Camus",
-    "source": "quotable.io"
-  },
-  {
-    "text": "One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.",
-    "author": "Hannah Szenes",
-    "source": "quotable.io"
-  }
-]
+{
+  "tag": "purpose",
+  "count": 17,
+  "quotes": [
+    {
+      "text": "The secret of success is constancy to purpose.",
+      "author": "Benjamin Disraeli",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Good luck is another name for tenacity of purpose.",
+      "author": "Ralph Waldo Emerson",
+      "source": "quotable.io"
+    },
+    {
+      "text": "To want to be what one can be is purpose in life.",
+      "author": "Cynthia Ozick",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Let there be no purpose in friendship save the deepening of the spirit.",
+      "author": "Kahlil Gibran",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.",
+      "author": "Woodrow Wilson",
+      "source": "quotable.io"
+    },
+    {
+      "text": "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
+      "author": "Mortimer J. Adler",
+      "source": "quotable.io"
+    },
+    {
+      "text": "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.",
+      "author": "Wayne Dyer",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.",
+      "author": "Napoleon Hill",
+      "source": "quotable.io"
+    },
+    {
+      "text": "I look forward to a great future for America - a future in which our country will match its military strength with our moral restraint, its wealth with our wisdom, its power with our purpose.",
+      "author": "John F. Kennedy",
+      "source": "quotable.io"
+    },
+    {
+      "text": "There is not one big cosmic meaning for all, there is only the meaning we each give to our life.",
+      "author": "Anaïs Nin",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Meaning is not what you start with but what you end up with.",
+      "author": "Peter Elbow",
+      "source": "quotable.io"
+    },
+    {
+      "text": "The meaning I picked, the one that changed my life: Overcome fear, behold wonder.",
+      "author": "Richard Bach",
+      "source": "quotable.io"
+    },
+    {
+      "text": "How is it possible to find meaning in a finite world, given my waist and shirt size?",
+      "author": "Woody Allen",
+      "source": "quotable.io"
+    },
+    {
+      "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
+      "author": "Carl Jung",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.",
+      "author": "Muhammad Ali",
+      "source": "quotable.io"
+    },
+    {
+      "text": "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.",
+      "author": "Albert Camus",
+      "source": "quotable.io"
+    },
+    {
+      "text": "One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.",
+      "author": "Hannah Szenes",
+      "source": "quotable.io"
+    }
+  ]
+}

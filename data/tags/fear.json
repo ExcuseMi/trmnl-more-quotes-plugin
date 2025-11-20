@@ -1,122 +1,126 @@
-[
-  {
-    "text": "Courage is not the absence of fear, but simply moving on with dignity despite that fear.",
-    "author": "Pat Riley",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Pitching is the art of instilling fear.",
-    "author": "Sandy Koufax",
-    "source": "quotable.io"
-  },
-  {
-    "text": "To conquer fear is the beginning of wisdom.",
-    "author": "Bertrand Russell",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Fear makes strangers of people who would be friends.",
-    "author": "Shirley MacLaine",
-    "source": "quotable.io"
-  },
-  {
-    "text": "You always have two choices: your commitment versus your fear.",
-    "author": "Sammy Davis Jr.",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Listen to what you know instead of what you fear.",
-    "author": "Richard Bach",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Fear not for the future, weep not for the past.",
-    "author": "Percy Bysshe Shelley",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Where there is charity and wisdom, there is neither fear nor ignorance.",
-    "author": "Francis of Assisi",
-    "source": "quotable.io"
-  },
-  {
-    "text": "There is no fear for one whose mind is not filled with desires.",
-    "author": "The Buddha",
-    "source": "quotable.io"
-  },
-  {
-    "text": "As we are liberated from our own fear, our presence automatically liberates others.",
-    "author": "Nelson Mandela",
-    "source": "quotable.io"
-  },
-  {
-    "text": "The meaning I picked, the one that changed my life: Overcome fear, behold wonder.",
-    "author": "Richard Bach",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Fear grows in darkness; if you think there's a bogeyman around, turn on the light.",
-    "author": "Dorothy Thompson",
-    "source": "quotable.io"
-  },
-  {
-    "text": "The free man is he who does not fear to go to the end of his thought.",
-    "author": "Léon Blum",
-    "source": "quotable.io"
-  },
-  {
-    "text": "A mind unruffled by the vagaries of fortune, from sorrow freed, from defilements cleansed, from fear liberated — this is the greatest blessing.",
-    "author": "The Buddha",
-    "source": "quotable.io"
-  },
-  {
-    "text": "All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.",
-    "author": "The Buddha",
-    "source": "quotable.io"
-  },
-  {
-    "text": "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?",
-    "author": "Confucius",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.",
-    "author": "Jane Addams",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
-    "author": "Marie Curie",
-    "source": "quotable.io"
-  },
-  {
-    "text": "We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct.",
-    "author": "Elizabeth Kapu'uwailani Lindsey",
-    "source": "quotable.io"
-  },
-  {
-    "text": "In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both.",
-    "author": "Mariella Frostrup",
-    "source": "quotable.io"
-  },
-  {
-    "text": "No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.",
-    "author": "Alan Watts",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Nothing diminishes anxiety faster than action.",
-    "author": "Walter Inglis Anderson",
-    "source": "quotable.io"
-  },
-  {
-    "text": "Fear is your worst enemy. Risk is your best friend.",
-    "author": "Gurbaksh Chahal",
-    "source": "zenquotes.io"
-  },
-  {
-    "text": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.",
-    "author": "Eleanor Roosevelt",
-    "source": "zenquotes.io"
-  }
-]
+{
+  "tag": "fear",
+  "count": 24,
+  "quotes": [
+    {
+      "text": "Courage is not the absence of fear, but simply moving on with dignity despite that fear.",
+      "author": "Pat Riley",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Pitching is the art of instilling fear.",
+      "author": "Sandy Koufax",
+      "source": "quotable.io"
+    },
+    {
+      "text": "To conquer fear is the beginning of wisdom.",
+      "author": "Bertrand Russell",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Fear makes strangers of people who would be friends.",
+      "author": "Shirley MacLaine",
+      "source": "quotable.io"
+    },
+    {
+      "text": "You always have two choices: your commitment versus your fear.",
+      "author": "Sammy Davis Jr.",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Listen to what you know instead of what you fear.",
+      "author": "Richard Bach",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Fear not for the future, weep not for the past.",
+      "author": "Percy Bysshe Shelley",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Where there is charity and wisdom, there is neither fear nor ignorance.",
+      "author": "Francis of Assisi",
+      "source": "quotable.io"
+    },
+    {
+      "text": "There is no fear for one whose mind is not filled with desires.",
+      "author": "The Buddha",
+      "source": "quotable.io"
+    },
+    {
+      "text": "As we are liberated from our own fear, our presence automatically liberates others.",
+      "author": "Nelson Mandela",
+      "source": "quotable.io"
+    },
+    {
+      "text": "The meaning I picked, the one that changed my life: Overcome fear, behold wonder.",
+      "author": "Richard Bach",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Fear grows in darkness; if you think there's a bogeyman around, turn on the light.",
+      "author": "Dorothy Thompson",
+      "source": "quotable.io"
+    },
+    {
+      "text": "The free man is he who does not fear to go to the end of his thought.",
+      "author": "Léon Blum",
+      "source": "quotable.io"
+    },
+    {
+      "text": "A mind unruffled by the vagaries of fortune, from sorrow freed, from defilements cleansed, from fear liberated — this is the greatest blessing.",
+      "author": "The Buddha",
+      "source": "quotable.io"
+    },
+    {
+      "text": "All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.",
+      "author": "The Buddha",
+      "source": "quotable.io"
+    },
+    {
+      "text": "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?",
+      "author": "Confucius",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.",
+      "author": "Jane Addams",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+      "author": "Marie Curie",
+      "source": "quotable.io"
+    },
+    {
+      "text": "We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct.",
+      "author": "Elizabeth Kapu'uwailani Lindsey",
+      "source": "quotable.io"
+    },
+    {
+      "text": "In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both.",
+      "author": "Mariella Frostrup",
+      "source": "quotable.io"
+    },
+    {
+      "text": "No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.",
+      "author": "Alan Watts",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Nothing diminishes anxiety faster than action.",
+      "author": "Walter Inglis Anderson",
+      "source": "quotable.io"
+    },
+    {
+      "text": "Fear is your worst enemy. Risk is your best friend.",
+      "author": "Gurbaksh Chahal",
+      "source": "zenquotes.io"
+    },
+    {
+      "text": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.",
+      "author": "Eleanor Roosevelt",
+      "source": "zenquotes.io"
+    }
+  ]
+}

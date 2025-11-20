@@ -69,8 +69,7 @@ def create_options_yml():
         'description': 'Select the tags.',
         'multiple': True,
         'help_text': 'Use <kbd>⌘</kbd>+<kbd>click</kbd> (Mac) or <kbd>ctrl</kbd>+<kbd>click</kbd> (Windows) to select multiple items. Use <kbd>Shift</kbd>+<kbd>click</kbd> to select a whole range at once.',
-        'options': options,
-        'optional': True
+        'options': options
     }
     custom_fields.append(channels_field)
     # Use custom YAML representer to format the output properly
