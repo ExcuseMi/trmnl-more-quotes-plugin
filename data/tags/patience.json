@@ -1,71 +1,70 @@
 {
   "tag": "patience",
-  "count": 13,
+  "count": 8,
   "quotes": [
-    {
-      "text": "Patience is the companion of wisdom.",
-      "author": "Augustine of Hippo",
-      "source": "quotable.io"
-    },
     {
       "text": "The two most powerful warriors are patience and time.",
       "author": "Leo Tolstoy",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Adopt the pace of nature: her secret is patience.",
-      "author": "Ralph Waldo Emerson",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
-      "author": "John Adams",
-      "source": "quotable.io"
-    },
-    {
-      "text": "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
-      "author": "Laozi",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.",
-      "author": "Helen Keller",
-      "source": "quotable.io"
-    },
-    {
-      "text": "A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.",
-      "author": "Molière",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
-      "author": "Harriet Tubman",
-      "source": "quotable.io"
-    },
-    {
-      "text": "And I love that even in the toughest moments, when we're all sweating it - when we're worried that the bill won't pass, and it seems like all is lost - Barack never lets himself get distracted by the chatter and the noise. Just like his grandmother, he just keeps getting up and moving forward... with patience and wisdom, and courage and grace.",
-      "author": "Michelle Obama",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "patience"
+      ]
     },
     {
       "text": "Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.",
       "author": "Earl Monroe",
-      "source": "quotable.io"
-    },
-    {
-      "text": "We could never learn to be brave and patient if there were only joy in the world.",
-      "author": "Helen Keller",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "patience"
+      ]
     },
     {
       "text": "I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.",
       "author": "Elizabeth Montagu",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "patience"
+      ]
     },
     {
       "text": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.",
       "author": "A.A. Milne",
-      "source": "zenquotes.io"
+      "source": "zenquotes.io",
+      "tags": [
+        "patience"
+      ]
+    },
+    {
+      "text": "Do not wait for leaders; do it alone, person to person.",
+      "author": "Mother Teresa",
+      "source": "quotable.io",
+      "tags": [
+        "patience"
+      ]
+    },
+    {
+      "text": "Your mind will answer most questions if you learn to relax and wait for the answer.",
+      "author": "William Burroughs",
+      "source": "quotable.io",
+      "tags": [
+        "patience"
+      ]
+    },
+    {
+      "text": "People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.",
+      "author": "Rogers Hornsby",
+      "source": "quotable.io",
+      "tags": [
+        "patience"
+      ]
+    },
+    {
+      "text": "When I was 40, my doctor advised me that a man in his 40s shouldn't play tennis. I heeded his advice carefully and could hardly wait until I reached 50 to start again.",
+      "author": "Hugo Black",
+      "source": "quotable.io",
+      "tags": [
+        "patience"
+      ]
     }
   ]
 }

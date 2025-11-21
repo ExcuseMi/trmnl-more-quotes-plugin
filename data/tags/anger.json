@@ -1,26 +1,30 @@
 {
   "tag": "anger",
-  "count": 4,
+  "count": 3,
   "quotes": [
-    {
-      "text": "Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.",
-      "author": "The Buddha",
-      "source": "quotable.io"
-    },
     {
       "text": "The greatest remedy for anger is delay.",
       "author": "Seneca the Younger",
-      "source": "quotable.io"
-    },
-    {
-      "text": "More often than not, anger is actually an indication of weakness rather than of strength.",
-      "author": "Dalai Lama",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "anger"
+      ]
     },
     {
       "text": "When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.",
       "author": "Epictetus",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "anger"
+      ]
+    },
+    {
+      "text": "An ounce of emotion is equal to a ton of facts.",
+      "author": "John Junor",
+      "source": "quotable.io",
+      "tags": [
+        "anger"
+      ]
     }
   ]
 }

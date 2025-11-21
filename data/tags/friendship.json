@@ -1,921 +1,1142 @@
 {
   "tag": "friendship",
-  "count": 183,
+  "count": 142,
   "quotes": [
-    {
-      "text": "Friendship multiplies the good of life and divides the evil.",
-      "author": "Baltasar Gracián",
-      "source": "quotable.io"
-    },
     {
       "text": "True friendship ought never to conceal what it thinks.",
       "author": "Jerome",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "When we seek to discover the best in others, we somehow bring out the best in ourselves.",
       "author": "William Arthur Ward",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.",
       "author": "Richard Burton",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Wishing to be friends is quick work, but friendship is a slow ripening fruit.",
       "author": "Aristotle",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A friend in power is a friend lost.",
       "author": "Henry Adams",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.",
       "author": "Steven Van Zandt",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "All I required to be happy was friendship and people I could admire.",
       "author": "Christian Dior",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Your friend is your needs answered.",
       "author": "Kahlil Gibran",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.",
       "author": "Chanakya",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Value your friendship. Value your relationships.",
       "author": "Barbara Bush",
-      "source": "quotable.io"
-    },
-    {
-      "text": "We should all be thankful for those people who rekindle the inner spirit.",
-      "author": "Albert Schweitzer",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A friend is someone who gives you total freedom to be yourself.",
       "author": "Jim Morrison",
-      "source": "quotable.io"
-    },
-    {
-      "text": "A true friend is one who overlooks your failures and tolerates your success!",
-      "author": "Doug Larson",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.",
-      "author": "Epicurus",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship is the marriage of the soul, and this marriage is liable to divorce.",
       "author": "Voltaire",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Of all possessions a friend is the most precious.",
       "author": "Herodotus",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Love is flower like; Friendship is like a sheltering tree.",
-      "author": "Samuel Taylor Coleridge",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship is one mind in two bodies.",
       "author": "Mencius",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Some people go to priests; others to poetry; I to my friends.",
       "author": "Virginia Woolf",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.",
-      "author": "Elie Wiesel",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Friendship is certainly the finest balm for the pangs of disappointed love.",
-      "author": "Jane Austen",
-      "source": "quotable.io"
-    },
-    {
-      "text": "In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.",
-      "author": "François de La Rochefoucauld",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A quarrel between friends, when made up, adds a new tie to friendship.",
       "author": "Francis de Sales",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "The essence of true friendship is to make allowance for another's little lapses.",
       "author": "Ovid",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "The language of friendship is not words but meanings.",
       "author": "Henry David Thoreau",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means.",
       "author": "Charles Kingsley",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Love is a friendship set to music.",
-      "author": "Joseph Campbell",
-      "source": "quotable.io"
-    },
-    {
-      "text": "A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.",
-      "author": "Basil of Caesarea",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship, like credit, is highest when it is not used.",
       "author": "Elbert Hubbard",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.",
       "author": "Thomas Edison",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over.",
       "author": "Octavia E. Butler",
-      "source": "quotable.io"
-    },
-    {
-      "text": "One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.",
-      "author": "Simone de Beauvoir",
-      "source": "quotable.io"
-    },
-    {
-      "text": "True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.",
-      "author": "George Washington",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.",
       "author": "George Foreman",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "One's friends are that part of the human race with which one can be human.",
       "author": "George Santayana",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship increases in visiting friends, but in visiting them seldom.",
       "author": "Francis Bacon",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship needs no words - it is solitude delivered from the anguish of loneliness.",
       "author": "Dag Hammarskjöld",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Rejoicing in our joy, not suffering over our suffering, makes someone a friend.",
-      "author": "Friedrich Nietzsche",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "The most I can do for my friend is simply be his friend.",
       "author": "Henry David Thoreau",
-      "source": "quotable.io"
-    },
-    {
-      "text": "But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine.",
-      "author": "Thomas Jefferson",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.",
       "author": "Orson Welles",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "The only way to have a friend is to be one.",
       "author": "Ralph Waldo Emerson",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.",
       "author": "Oprah Winfrey",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.",
       "author": "George Santayana",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friends... they cherish one another's hopes. They are kind to one another's dreams.",
       "author": "Henry David Thoreau",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
       "author": "Marcel Proust",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A friend may well be reckoned the masterpiece of nature.",
       "author": "Ralph Waldo Emerson",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Love, friendship and respect do not unite people as much as a common hatred for something.",
       "author": "Anton Chekhov",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair.",
       "author": "Samuel Johnson",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Friendship often ends in love, but love in friendship - never.",
-      "author": "Albert Camus",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A friendship founded on business is better than a business founded on friendship.",
       "author": "John Locke",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Friendship may, and often does, grow into love, but love never subsides into friendship.",
-      "author": "Lord Byron",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship is essentially a partnership.",
       "author": "Aristotle",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Friendship always benefits; love sometimes injures.",
-      "author": "Seneca the Younger",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Love demands infinitely less than friendship.",
-      "author": "George Jean Nathan",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Love and friendship exclude each other.",
-      "author": "Jean de La Bruyère",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Friendship is Love without his wings!",
-      "author": "Lord Byron",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Marriage: A friendship recognized by the police.",
       "author": "Robert Louis Stevenson",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Love is blind; friendship closes its eyes.",
-      "author": "Friedrich Nietzsche",
-      "source": "quotable.io"
-    },
-    {
-      "text": "The greatest healing therapy is friendship and love.",
-      "author": "Hubert Humphrey",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship is like money, easier made than kept.",
       "author": "Samuel Butler",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.",
       "author": "Muhammad Ali",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Rare as is true love, true friendship is rarer.",
-      "author": "Jean de La Fontaine",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship is always a sweet responsibility, never an opportunity.",
       "author": "Kahlil Gibran",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "The friendship that can cease has never been real.",
       "author": "Jerome",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "The differences between friends cannot but reinforce their friendship.",
       "author": "Mao Zedong",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Every friendship is different because everyone's personality is different.",
       "author": "Nargis Fakhri",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "The world is round so that friendship may encircle it.",
       "author": "Pierre Teilhard de Chardin",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship is a very taxing and arduous form of leisure activity.",
       "author": "Mortimer J. Adler",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Love is the attempt to form a friendship inspired by beauty.",
-      "author": "Cicero",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Love is rarer than genius itself. And friendship is rarer than love.",
-      "author": "Charles Péguy",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Business, you know, may bring you money, but friendship hardly ever does.",
       "author": "Jane Austen",
-      "source": "quotable.io"
-    },
-    {
-      "text": "The greatest gift of life is friendship, and I have received it.",
-      "author": "Hubert Humphrey",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "The strong bond of friendship is not always a balanced equation; friendship is not always about giving and taking in equal shares. Instead, friendship is grounded in a feeling that you know exactly who will be there for you when you need something, no matter what or when.",
       "author": "Simon Sinek",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship.",
       "author": "Harbhajan Singh",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Let there be no purpose in friendship save the deepening of the spirit.",
       "author": "Kahlil Gibran",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "There is nothing on this earth more to be prized than true friendship.",
       "author": "Thomas Aquinas",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "However rare true love may be, it is less so than true friendship.",
       "author": "François de La Rochefoucauld",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Share your smile with the world. It's a symbol of friendship and peace.",
       "author": "Christie Brinkley",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Remember that a gesture of friendship, no matter how small, is always appreciated.",
       "author": "H. Jackson Brown Jr.",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship, like the immortality of the soul, is too good to be believed.",
       "author": "Ralph Waldo Emerson",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk.",
       "author": "Cicero",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "True friends stab you in the front.",
       "author": "Oscar Wilde",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "It is more shameful to distrust our friends than to be deceived by them.",
       "author": "Confucius",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A friend is one who knows you and loves you just the same.",
       "author": "Elbert Hubbard",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together.",
-      "author": "Mariella Frostrup",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.",
       "author": "Salman Rushdie",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares.",
       "author": "Henri Nouwen",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.",
       "author": "Laurence J. Peter",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Be true to yourself, help others, make each day your masterpiece, make friendship a fine art, drink deeply from good books - especially the Bible, build a shelter against a rainy day, give thanks for your blessings and pray for guidance every day.",
       "author": "John Wooden",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.",
       "author": "Paramahansa Yogananda",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree.",
       "author": "Elbert Hubbard",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.",
       "author": "Thomas Aquinas",
-      "source": "quotable.io"
-    },
-    {
-      "text": "True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.",
-      "author": "Joseph Addison",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.",
       "author": "William C. Menninger",
-      "source": "quotable.io"
-    },
-    {
-      "text": "No person is your friend who demands your silence or denies your right to grow.",
-      "author": "Alice Walker",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.",
-      "author": "Eustace Budgell",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Never explain - your friends do not need it and your enemies will not believe you anyway.",
       "author": "Elbert Hubbard",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Be slow to fall into friendship; but when thou art in, continue firm and constant.",
       "author": "Isocrates",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Love is like a friendship caught on fire. In the beginning a flame, very pretty, often hot and fierce, but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals, deep-burning and unquenchable.",
-      "author": "Bruce Lee",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.",
       "author": "Yolanda Hadid",
-      "source": "quotable.io"
-    },
-    {
-      "text": "A friend is what the heart needs all the time.",
-      "author": "Henry van Dyke Jr.",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.",
       "author": "Mother Angelica",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Love is the only force capable of transforming an enemy into a friend.",
-      "author": "Martin Luther King Jr.",
-      "source": "quotable.io"
-    },
-    {
-      "text": "A man's growth is seen in the successive choirs of his friends",
-      "author": "Ralph Waldo Emerson",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both.",
       "author": "Mariella Frostrup",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "True friendship is like sound health; the value of it is seldom known until it is lost.",
       "author": "Charles Caleb Colton",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship.",
       "author": "Marilyn Monroe",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A friend to all is a friend to none.",
       "author": "Aristotle",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Nothing but heaven itself is better than a friend who is really a friend.",
       "author": "Plautus",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Silence is the true friend that never betrays.",
-      "author": "Confucius",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "One loyal friend is worth ten thousand relatives.",
       "author": "Euripides",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Life has no blessing like a prudent friend.",
-      "author": "Euripides",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A friend is a gift you give yourself.",
       "author": "Robert Louis Stevenson",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Be slow in choosing a friend, slower in changing.",
       "author": "Benjamin Franklin",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A friend is, as it were, a second self.",
       "author": "Cicero",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Every gift from a friend is a wish for your happiness.",
-      "author": "Richard Bach",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A single rose can be my garden... a single friend, my world.",
       "author": "Leo Buscaglia",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "If you have one true friend, you have more than your share.",
       "author": "Thomas Fuller",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "My best friend is the one who brings out the best in me.",
       "author": "Henry Ford",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "I want my friend to miss me as long as I miss him.",
       "author": "Augustine of Hippo",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Walking with a friend in the dark is better than walking alone in the light.",
-      "author": "Helen Keller",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A true friend is someone who is there for you when he'd rather be anywhere else.",
       "author": "Len Wein",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A man cannot be said to succeed in this life who does not satisfy one friend.",
       "author": "Henry David Thoreau",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies.",
       "author": "Confucius",
-      "source": "quotable.io"
-    },
-    {
-      "text": "If there is such a thing as a good marriage, it is because it resembles friendship rather than love.",
-      "author": "Michel de Montaigne",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friends are the siblings God never gave us.",
       "author": "Mencius",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Sustaining true friendship is a lot more challenging than we give it credit for.",
       "author": "Mariella Frostrup",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "There is no friendship, no love, like that of the parent for the child.",
       "author": "Henry Ward Beecher",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.",
       "author": "H. Jackson Brown Jr.",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "The sincere friends of this world are as ship lights in the stormiest of nights.",
       "author": "Giotto",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Fear makes strangers of people who would be friends.",
       "author": "Shirley MacLaine",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger.",
       "author": "Michelle Obama",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "I have learned that to be with those I like is enough.",
       "author": "Walt Whitman",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed.",
       "author": "Kahlil Gibran",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Friends show their love in times of trouble, not in happiness.",
-      "author": "Euripides",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.",
       "author": "Charles Eastman",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.",
       "author": "François de La Rochefoucauld",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.",
       "author": "Hanya Yanagihara",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A real friend is one who walks in when the rest of the world walks out.",
       "author": "Walter Winchell",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.",
       "author": "Washington Irving",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "One of the most beautiful qualities of true friendship is to understand and to be understood.",
       "author": "Seneca the Younger",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship is an arrangement by which we undertake to exchange small favors for big ones.",
       "author": "Montesquieu",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "I destroy my enemies when I make them my friends.",
       "author": "Abraham Lincoln",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "He has no enemies, but is intensely disliked by his friends.",
       "author": "Oscar Wilde",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.",
       "author": "Arthur Ashe",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friends are those rare people who ask how we are and then wait to hear the answer.",
       "author": "Ed Cunningham",
-      "source": "quotable.io"
-    },
-    {
-      "text": "I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun.",
-      "author": "Chuck Swindoll",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.",
       "author": "Johann Kaspar Lavater",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.",
       "author": "Anaïs Nin",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation.",
       "author": "Samuel Richardson",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?",
-      "author": "Dalai Lama",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.",
       "author": "Samuel Johnson",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.",
       "author": "Brooks Adams",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "It is not so much our friends' help that helps us, as the confidence of their help.",
       "author": "Epicurus",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "You win the victory when you yield to friends.",
       "author": "Sophocles",
-      "source": "quotable.io"
-    },
-    {
-      "text": "True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing.",
-      "author": "Baltasar Gracián",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.",
       "author": "Paul Theroux",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "I had three chairs in my house; one for solitude, two for friendship, three for society.",
       "author": "Henry David Thoreau",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?",
       "author": "Thomas Jefferson",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship.",
       "author": "Henry Ward Beecher",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.",
       "author": "A. Powell Davies",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.",
       "author": "Robert Southey",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.",
       "author": "Oscar Wilde",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.",
       "author": "Mignon McLaughlin",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.",
       "author": "Ernie Banks",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.",
       "author": "Fawn M. Brodie",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "It is not a lack of love, but a lack of friendship that makes unhappy marriages.",
       "author": "Friedrich Nietzsche",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?",
-      "author": "Richard Bach",
-      "source": "quotable.io"
-    },
-    {
-      "text": "True friendship can afford true knowledge. It does not depend on darkness and ignorance.",
-      "author": "Henry David Thoreau",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.",
       "author": "Eleanor Roosevelt",
-      "source": "quotable.io"
-    },
-    {
-      "text": "All love that has not friendship for its base, is like a mansion built upon the sand.",
-      "author": "Ella Wheeler Wilcox",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.",
-      "author": "Chanakya",
-      "source": "quotable.io"
-    },
-    {
-      "text": "I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.",
-      "author": "Plutarch",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Read as you taste fruit or savor wine, or enjoy friendship, love or life.",
       "author": "George Herbert",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.",
       "author": "George Washington",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship at first sight, like love at first sight, is said to be the only truth.",
       "author": "Herman Melville",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Remember that the most valuable antiques are dear old friends.",
       "author": "H. Jackson Brown Jr.",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.",
       "author": "Farhan Akhtar",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Our most intimate friend is not he to whom we show the worst, but the best of our nature.",
       "author": "Nathaniel Hawthorne",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "He who hath many friends hath none.",
       "author": "Aristotle",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     },
     {
       "text": "Friendship without self-interest is one of the rare and beautiful things of life.",
       "author": "James F. Byrnes",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
+    },
+    {
+      "text": "I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.",
+      "author": "Thomas Jefferson",
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
+    },
+    {
+      "text": "Two persons cannot long be friends if they cannot forgive each other's little failings.",
+      "author": "Jean de La Bruyère",
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
+    },
+    {
+      "text": "The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.",
+      "author": "Cicero",
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
+    },
+    {
+      "text": "My friends are my estate.",
+      "author": "Emily Dickinson",
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
+    },
+    {
+      "text": "There are no strangers here; Only friends you haven't yet met.",
+      "author": "William Butler Yeats",
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
+    },
+    {
+      "text": "It is one of the blessings of old friends that you can afford to be stupid with them.",
+      "author": "Ralph Waldo Emerson",
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
+    },
+    {
+      "text": "When the world is so complicated, the simple gift of friendship is within all of our hands.",
+      "author": "Maria Shriver",
+      "source": "quotable.io",
+      "tags": [
+        "friendship"
+      ]
     }
   ]
 }

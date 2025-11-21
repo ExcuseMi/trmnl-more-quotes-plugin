@@ -1,51 +1,38 @@
 {
   "tag": "forgiveness",
-  "count": 9,
+  "count": 4,
   "quotes": [
-    {
-      "text": "Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.",
-      "author": "George Foreman",
-      "source": "quotable.io"
-    },
-    {
-      "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-      "author": "Mahatma Gandhi",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Forgiveness is choosing to love. It is the first skill of self-giving love.",
-      "author": "Mahatma Gandhi",
-      "source": "quotable.io"
-    },
-    {
-      "text": "If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.",
-      "author": "Vusi Mahlasela",
-      "source": "quotable.io"
-    },
     {
       "text": "It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.",
       "author": "Jessamyn West",
-      "source": "quotable.io"
-    },
-    {
-      "text": "The more you know yourself, the more you forgive yourself.",
-      "author": "Confucius",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Two persons cannot long be friends if they cannot forgive each other's little failings.",
-      "author": "Jean de La Bruyère",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "forgiveness"
+      ]
     },
     {
       "text": "I do not know the American gentleman, god forgive me for putting two such words together.",
       "author": "Charles Dickens",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "forgiveness"
+      ]
     },
     {
       "text": "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
       "author": "Sri Chinmoy",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "forgiveness"
+      ]
+    },
+    {
+      "text": "All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.",
+      "author": "Winston Churchill",
+      "source": "quotable.io",
+      "tags": [
+        "forgiveness"
+      ]
     }
   ]
 }

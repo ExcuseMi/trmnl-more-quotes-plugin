@@ -1,121 +1,110 @@
 {
   "tag": "harmony",
-  "count": 23,
+  "count": 13,
   "quotes": [
     {
       "text": "He who lives in harmony with himself lives in harmony with the world.",
       "author": "Marcus Aurelius",
-      "source": "quotable.io"
-    },
-    {
-      "text": "He who lives in harmony with himself lives in harmony with the universe.",
-      "author": "Marcus Aurelius",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Happiness is when what you think, what you say, and what you do are in harmony.",
-      "author": "Mahatma Gandhi",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "harmony"
+      ]
     },
     {
       "text": "Peace begins with a smile.",
       "author": "Mother Teresa",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Resolutely train yourself to attain peace.",
-      "author": "The Buddha",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Those who are free of resentful thoughts surely find peace.",
-      "author": "The Buddha",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "harmony"
+      ]
     },
     {
       "text": "Better than a thousand hollow words, is one word that brings peace.",
       "author": "The Buddha",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Share your smile with the world. It's a symbol of friendship and peace.",
-      "author": "Christie Brinkley",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Peace cannot be kept by force. It can only be achieved by understanding.",
-      "author": "Albert Einstein",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
-      "author": "Melody Beattie",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Better than a thousand useless words is one useful word, upon hearing which one attains peace.",
-      "author": "The Buddha",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "harmony"
+      ]
     },
     {
       "text": "Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.",
       "author": "Francis of Assisi",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "harmony"
+      ]
     },
     {
       "text": "Until you make peace with who you are, you'll never be content with what you have.",
       "author": "Doris Mortman",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "harmony"
+      ]
     },
     {
       "text": "I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.",
       "author": "Woody Allen",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "harmony"
+      ]
     },
     {
       "text": "Until you make peace with who you are, you will never be content with what you have.",
       "author": "Doris Mortman",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "harmony"
+      ]
     },
     {
       "text": "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.",
       "author": "Dalai Lama",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "harmony"
+      ]
     },
     {
       "text": "Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.",
       "author": "Dalai Lama",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "harmony"
+      ]
     },
     {
       "text": "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
       "author": "Robert Fulghum",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.",
-      "author": "The Buddha",
-      "source": "quotable.io"
-    },
-    {
-      "text": "When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.",
-      "author": "Dalai Lama",
-      "source": "quotable.io"
-    },
-    {
-      "text": "The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah.",
-      "author": "Afrika Bambaataa",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "harmony"
+      ]
     },
     {
       "text": "If we have no peace, it is because we have forgotten that we belong to each other.",
       "author": "Mother Teresa",
-      "source": "zenquotes.io"
+      "source": "zenquotes.io",
+      "tags": [
+        "harmony"
+      ]
     },
     {
       "text": "Peace if possible, truth at all costs.",
       "author": "Martin Luther",
-      "source": "zenquotes.io"
+      "source": "zenquotes.io",
+      "tags": [
+        "harmony"
+      ]
+    },
+    {
+      "text": "In peace, sons bury their fathers. In war, fathers bury their sons. ",
+      "author": "Herodotus",
+      "source": "zenquotes.io",
+      "tags": [
+        "harmony"
+      ]
     }
   ]
 }

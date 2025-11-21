@@ -1,51 +1,126 @@
 {
   "tag": "leadership",
-  "count": 9,
+  "count": 15,
   "quotes": [
-    {
-      "text": "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
-      "author": "Laozi",
-      "source": "quotable.io"
-    },
     {
       "text": "One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.",
       "author": "Olivier Messiaen",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "leadership"
+      ]
     },
     {
       "text": "A leader is one who knows the way, goes the way, and shows the way.",
       "author": "John C. Maxwell",
-      "source": "quotable.io"
-    },
-    {
-      "text": "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
-      "author": "John Quincy Adams",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "leadership"
+      ]
     },
     {
       "text": "A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.",
       "author": "Jawaharlal Nehru",
-      "source": "quotable.io"
-    },
-    {
-      "text": "I am not the first Buddha who came upon Earth, nor shall I be the last. In due time, another Buddha will arise in the world - a Holy One, a supremely enlightened One, endowed with wisdom in conduct, auspicious, knowing the universe, an incomparable leader of men, a master of angels and mortals.",
-      "author": "The Buddha",
-      "source": "quotable.io"
-    },
-    {
-      "text": "A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.",
-      "author": "John C. Maxwell",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "leadership"
+      ]
     },
     {
       "text": "Becoming a great leader doesn't mean being perfect. it means living with your imperfections.",
       "author": "Lolly Daskal",
-      "source": "zenquotes.io"
+      "source": "zenquotes.io",
+      "tags": [
+        "leadership"
+      ]
     },
     {
       "text": "No man will make a great leader who wants to do it all himself or to get all the credit for doing it.",
       "author": "Andrew Carnegie",
-      "source": "zenquotes.io"
+      "source": "zenquotes.io",
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "text": "Become the kind of leader that people would follow voluntarily, even if you had no title or position.",
+      "author": "Brian Tracy",
+      "source": "zenquotes.io",
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "text": "The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.",
+      "author": "Peter Drucker",
+      "source": "quotable.io",
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "text": "Efficiency is doing things right; effectiveness is doing the right things.",
+      "author": "Peter Drucker",
+      "source": "quotable.io",
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "text": "There is nothing so useless as doing efficiently that which should not be done at all.",
+      "author": "Peter Drucker",
+      "source": "quotable.io",
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "text": "Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.",
+      "author": "Peter Drucker",
+      "source": "quotable.io",
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "text": "The cost of leadership is self-interest.",
+      "author": "Simon Sinek",
+      "source": "zenquotes.io",
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "text": "Not all readers are leaders, but all leaders are readers.",
+      "author": "Harry S. Truman",
+      "source": "zenquotes.io",
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "text": "Mind is the creator of everything. You should therefore guide it to create only good.",
+      "author": "Paramahansa Yogananda",
+      "source": "zenquotes.io",
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "text": "Leadership is solving problems",
+      "author": "Colin Powell",
+      "source": "zenquotes.io",
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "text": "Leadership starts at the top.",
+      "author": "Morgan Wootten",
+      "source": "zenquotes.io",
+      "tags": [
+        "leadership"
+      ]
     }
   ]
 }

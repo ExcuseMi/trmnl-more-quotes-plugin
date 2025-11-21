@@ -1,116 +1,94 @@
 {
   "tag": "courage",
-  "count": 22,
+  "count": 11,
   "quotes": [
     {
       "text": "Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.",
       "author": "Winston Churchill",
-      "source": "quotable.io"
-    },
-    {
-      "text": "As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse.",
-      "author": "The Buddha",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Without courage, wisdom bears no fruit.",
-      "author": "Baltasar Gracián",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "courage"
+      ]
     },
     {
       "text": "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.",
       "author": "Winston Churchill",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Life shrinks or expands in proportion to one's courage.",
-      "author": "Anaïs Nin",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "courage"
+      ]
     },
     {
       "text": "Courage is going from failure to failure without losing enthusiasm.",
       "author": "Winston Churchill",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "courage"
+      ]
     },
     {
       "text": "Decision is a risk rooted in the courage of being free.",
       "author": "Paul Tillich",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "courage"
+      ]
     },
     {
       "text": "Mistakes are always forgivable, if one has the courage to admit them.",
       "author": "Bruce Lee",
-      "source": "quotable.io"
-    },
-    {
-      "text": "It takes courage to grow up and become who you really are.",
-      "author": "E. E. Cummings",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Wisdom, compassion, and courage are the three universally recognized moral qualities of men.",
-      "author": "Confucius",
-      "source": "quotable.io"
-    },
-    {
-      "text": "All our dreams can come true, if we have the courage to pursue them.",
-      "author": "Walt Disney",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Success is not final; failure is not fatal: it is the courage to continue that counts.",
-      "author": "Winston Churchill",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "courage"
+      ]
     },
     {
       "text": "Courage is not the absence of fear, but simply moving on with dignity despite that fear.",
       "author": "Pat Riley",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "courage"
+      ]
     },
     {
       "text": "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.",
       "author": "Dalai Lama",
-      "source": "quotable.io"
-    },
-    {
-      "text": "We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.",
-      "author": "Barbara De Angelis",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Know what's important and what isn't. Have the wisdom to know the right thing to do, the integrity to do it, the character to stand up to those who don't, and the courage to stop those who won't.",
-      "author": "Mark Goulston",
-      "source": "quotable.io"
-    },
-    {
-      "text": "The ideals which have lighted my way, and time after time have given me new courage to face life cheerfully, have been Kindness, Beauty, and Truth. The trite subjects of human efforts, possessions, outward success, luxury have always seemed to me contemptible.",
-      "author": "Albert Einstein",
-      "source": "quotable.io"
-    },
-    {
-      "text": "And I love that even in the toughest moments, when we're all sweating it - when we're worried that the bill won't pass, and it seems like all is lost - Barack never lets himself get distracted by the chatter and the noise. Just like his grandmother, he just keeps getting up and moving forward... with patience and wisdom, and courage and grace.",
-      "author": "Michelle Obama",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "courage"
+      ]
     },
     {
       "text": "Fortune favors the brave.",
       "author": "Virgil",
-      "source": "quotable.io"
-    },
-    {
-      "text": "It is easy to be brave from a safe distance.",
-      "author": "Aesop",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "courage"
+      ]
     },
     {
       "text": "Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
       "author": "Aristotle",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "courage"
+      ]
     },
     {
-      "text": "We could never learn to be brave and patient if there were only joy in the world.",
-      "author": "Helen Keller",
-      "source": "quotable.io"
+      "text": "The future doesn't belong to the faint-hearted; it belongs to the brave.",
+      "author": "Ronald Reagan",
+      "source": "zenquotes.io",
+      "tags": [
+        "courage"
+      ]
+    },
+    {
+      "text": "The more you are motivated by Love, The more Fearless & Free your action will be.",
+      "author": "Dalai Lama",
+      "source": "zenquotes.io",
+      "tags": [
+        "courage"
+      ]
     }
   ]
 }

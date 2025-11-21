@@ -1,41 +1,134 @@
 {
   "tag": "mindfulness",
-  "count": 7,
+  "count": 16,
   "quotes": [
     {
       "text": "The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.",
       "author": "Thích Nhất Hạnh",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
     },
     {
       "text": "The awareness of our own strength makes us modest.",
       "author": "Paul Cézanne",
-      "source": "quotable.io"
-    },
-    {
-      "text": "What is necessary to change a person is to change his awareness of himself.",
-      "author": "Abraham Maslow",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
     },
     {
       "text": "The key to growth is the introduction of higher dimensions of consciousness into our awareness.",
       "author": "Laozi",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
     },
     {
       "text": "Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.",
       "author": "Voltaire",
-      "source": "quotable.io"
-    },
-    {
-      "text": "Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.",
-      "author": "Charles Lindbergh",
-      "source": "quotable.io"
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
     },
     {
       "text": "The decisions of our past are the architects of our present.",
       "author": "Dan Brown",
-      "source": "zenquotes.io"
+      "source": "zenquotes.io",
+      "tags": [
+        "mindfulness"
+      ]
+    },
+    {
+      "text": "Don't ruin the present with the ruined past.",
+      "author": "Ellen Gilchrist",
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
+    },
+    {
+      "text": "If we are not fully ourselves, truly in the present moment, we miss everything.",
+      "author": "Thích Nhất Hạnh",
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
+    },
+    {
+      "text": "Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.",
+      "author": "Joan Rivers",
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
+    },
+    {
+      "text": "You cannot find yourself by going into the past. You can find yourself by coming into the present.",
+      "author": "Eckhart Tolle",
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
+    },
+    {
+      "text": "If we open a quarrel between past and present, we shall find that we have lost the future.",
+      "author": "Winston Churchill",
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
+    },
+    {
+      "text": "The past has no power to stop you from being present now. Only your grievance about the past can do that.",
+      "author": "Eckhart Tolle",
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
+    },
+    {
+      "text": "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.",
+      "author": "Babatunde Olatunji",
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
+    },
+    {
+      "text": "Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some.",
+      "author": "Charles Dickens",
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
+    },
+    {
+      "text": "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.",
+      "author": "Leonardo da Vinci",
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
+    },
+    {
+      "text": "Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population.",
+      "author": "Albert Einstein",
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
+    },
+    {
+      "text": "Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.",
+      "author": "Nikola Tesla",
+      "source": "quotable.io",
+      "tags": [
+        "mindfulness"
+      ]
     }
   ]
 }

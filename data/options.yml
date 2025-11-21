@@ -1,42 +1,55 @@
 - keyname: about
   name: About This Plugin
   field_type: author_bio
+  description: Daily inspirational quotes from a curated collection. Database contains 1566 unique quotes across 43 different tags from 582 unique authors.
   github_url: https://github.com/ExcuseMi/trmnl-more-quotes.plugin
 - keyname: tags
   field_type: select
   name: Tags
-  description: Select the tags.
+  description: Select one or more tags to filter quotes. 43 tags available.
   multiple: true
   help_text: Use <kbd>⌘</kbd>+<kbd>click</kbd> (Mac) or <kbd>ctrl</kbd>+<kbd>click</kbd> (Windows) to select multiple items. Use <kbd>Shift</kbd>+<kbd>click</kbd> to select a whole range at once.
   options:
-  - anger
-  - change
-  - courage
-  - creativity
-  - empathy
-  - fear
-  - forgiveness
-  - friendship
-  - general
-  - gratitude
-  - growth
-  - happiness
-  - harmony
-  - hope
-  - humility
-  - inspiration
-  - integrity
-  - justice
-  - knowledge
-  - leadership
-  - life
-  - love
-  - mindfulness
-  - motivation
-  - patience
-  - perseverance
-  - purpose
-  - resilience
-  - self-reflection
-  - success
-  - wisdom
+  - 'Anger: 3': anger
+  - 'Change: 23': change
+  - 'Confidence: 1': confidence
+  - 'Courage: 11': courage
+  - 'Creativity: 19': creativity
+  - 'Deception: 1': deception
+  - 'Empathy: 18': empathy
+  - 'Fear: 21': fear
+  - 'Forgiveness: 4': forgiveness
+  - 'Friendship: 142': friendship
+  - 'General: 31': general
+  - 'Gratitude: 9': gratitude
+  - 'Growth: 10': growth
+  - 'Happiness: 41': happiness
+  - 'Harmony: 13': harmony
+  - 'Hope: 17': hope
+  - 'Humility: 1': humility
+  - 'Humor: 1': humor
+  - 'Inspiration: 120': inspiration
+  - 'Integrity: 1': integrity
+  - 'Justice: 19': justice
+  - 'Knowledge: 29': knowledge
+  - 'Leadership: 15': leadership
+  - 'Life: 118': life
+  - 'Love: 75': love
+  - 'Military: 13': military
+  - 'Mindfulness: 16': mindfulness
+  - 'Morale: 1': morale
+  - 'Motivation: 70': motivation
+  - 'Patience: 8': patience
+  - 'Peace: 21': peace
+  - 'Perseverance: 6': perseverance
+  - 'Philosophy: 1': philosophy
+  - 'Politics: 1': politics
+  - 'Psychology: 1': psychology
+  - 'Purpose: 10': purpose
+  - 'Resilience: 12': resilience
+  - 'Self-reflection: 20': self-reflection
+  - 'Strategy: 15': strategy
+  - 'Success: 99': success
+  - 'Victory: 1': victory
+  - 'War: 22': war
+  - 'Wisdom: 506': wisdom
