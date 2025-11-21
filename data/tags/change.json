@@ -1,6 +1,6 @@
 {
   "tag": "change",
-  "count": 23,
+  "count": 24,
   "quotes": [
     {
       "text": "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
@@ -182,6 +182,14 @@
       "text": "If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.",
       "author": "Rachel Carson",
       "source": "quotable.io",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "text": "Repetition does not transform a lie into a truth.",
+      "author": "Franklin D. Roosevelt",
+      "source": "zenquotes.io",
       "tags": [
         "change"
       ]

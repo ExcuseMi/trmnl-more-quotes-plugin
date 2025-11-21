@@ -1,6 +1,6 @@
 {
   "tag": "leadership",
-  "count": 15,
+  "count": 16,
   "quotes": [
     {
       "text": "One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.",
@@ -115,8 +115,16 @@
       ]
     },
     {
-      "text": "Leadership starts at the top.",
-      "author": "Morgan Wootten",
+      "text": "Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.",
+      "author": "Peter Drucker",
+      "source": "zenquotes.io",
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "text": "Victims recite problems, leaders provide solutions.",
+      "author": "Robin Sharma",
       "source": "zenquotes.io",
       "tags": [
         "leadership"

@@ -550,7 +550,7 @@ def generate_quotes_database():
     # Organize and save by authors
     print("\nOrganizing quotes by authors...")
     authors_db = organize_by_authors(all_quotes)
-    save_author_files(authors_db)
+    #save_author_files(authors_db)
 
     # Print summary
     print("\n" + "=" * 60)
@@ -577,4 +577,6 @@ def generate_quotes_database():
 
 
 if __name__ == "__main__":
-    generate_quotes_database()
+    for i in range(50):
+        generate_quotes_database()
+        time.sleep(60)
